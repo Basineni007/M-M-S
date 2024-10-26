@@ -9,7 +9,7 @@ public class SimplePyramid {
             }
             // Print asterisks
             for (int k = 1; k <= (2 * i - 1); k++) {
-                System.out.print("*");
+                System.out.print("Mani");
             }
             // Move to the next line
             System.out.println();
